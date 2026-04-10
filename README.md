@@ -3,6 +3,7 @@
 Project web bán hàng là một hệ thống website được xây dựng nhằm hỗ trợ việc trưng bày, quản lý và bán sản phẩm trực tuyến. Hệ thống cho phép người dùng xem sản phẩm, tìm kiếm, thêm vào giỏ hàng, đặt mua và theo dõi đơn hàng một cách thuận tiện. Đồng thời, admin quản trị có thể quản lý sản phẩm, danh mục, khách hàng và đơn hàng, giúp quá trình kinh doanh diễn ra hiệu quả hơn. Project này hướng đến mục tiêu nâng cao trải nghiệm mua sắm online và tối ưu hóa hoạt động quản lý bán hàng.
 # Phân công nhiệm vụ :
 Phân công 4 người
+
 🔹 Người 1 – Frontend (UI/UX)
 Nhiệm vụ:
 Thiết kế giao diện (HTML, CSS)
@@ -12,6 +13,7 @@ Giỏ hàng (UI)
 👉 Kết quả:
 Giao diện hoàn chỉnh, responsive
 Có thể dùng Bootstrap/Tailwind cho nhanh
+
 🔹 Người 2 – Backend (User + Auth)
 Nhiệm vụ:
 Xây dựng API đăng ký / đăng nhập
@@ -20,6 +22,7 @@ API user (lấy thông tin người dùng)
 👉 Kết quả:
 Login/logout chạy được
 Kết nối frontend
+
 🔹 Người 3 – Backend (Product + Order)
 Nhiệm vụ:
 API sản phẩm (CRUD)
@@ -28,6 +31,7 @@ API đặt hàng
 👉 Kết quả:
 Thêm/xóa sản phẩm
 Đặt hàng thành công
+
 🔹 Người 4 – Database + Documentation (rất quan trọng)
 Nhiệm vụ:
 Thiết kế database (ERD)
